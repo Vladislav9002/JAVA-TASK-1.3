@@ -1,0 +1,133 @@
+21:29:27.307 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+21:29:27.314 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+21:29:27.314 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+21:29:27.314 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+21:29:27.314 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+21:29:27.314 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:01:02.921 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 19.5
+22:01:02.925 [main] INFO  com.epam.Main - ArrayRepositoryImpl{customArrays=[CustomArray{array=[5, -2, 1, 16, 10, 3], arrayId=1}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=5}
+, CustomArray{array=[7, 5, 45, 34, 2, 9, 0, 54], arrayId=6}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=7}
+, CustomArray{array=[71, 5, 45, 34, 2, 9, 0, 54], arrayId=8}
+, CustomArray{array=[7, 5, 45, 340, 2, 9, 0, 54, 12], arrayId=9}
+]}
+22:01:02.937 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:01:02.937 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+22:01:02.937 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:01:02.937 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:01:02.937 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:01:02.938 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:01:02.938 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:01:02.938 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+22:01:02.938 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:01:02.938 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:01:02.938 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:01:02.938 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:01:02.938 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+22:01:02.938 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:01:02.938 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+22:01:02.938 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:01:02.938 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+22:01:02.939 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+22:01:02.939 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+22:01:02.939 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:02:28.927 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 19.5
+22:02:28.930 [main] INFO  com.epam.Main - ArrayRepositoryImpl{customArrays=[CustomArray{array=[5, -2, 1, 16, 10, 3], arrayId=1}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=5}
+, CustomArray{array=[7, 5, 45, 34, 2, 9, 0, 54], arrayId=6}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=7}
+, CustomArray{array=[71, 5, 45, 34, 2, 9, 0, 54], arrayId=8}
+, CustomArray{array=[7, 5, 45, 340, 2, 9, 0, 54, 12], arrayId=9}
+]}
+22:02:28.932 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:02:28.932 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+22:02:28.932 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:02:28.932 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:02:28.932 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:02:28.932 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:02:28.932 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:02:28.932 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+22:02:28.932 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:02:28.932 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:02:28.933 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:02:28.933 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:02:28.933 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+22:02:28.933 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:02:28.933 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+22:02:28.933 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:02:28.933 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+22:02:28.933 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+22:02:28.933 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+22:02:28.933 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:02:28.934 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+22:06:49.976 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 19.5
+22:06:49.980 [main] INFO  com.epam.Main - ArrayRepositoryImpl{customArrays=[CustomArray{array=[5, -2, 1, 16, 10, 3], arrayId=1}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=5}
+, CustomArray{array=[7, 5, 45, 34, 2, 9, 0, 54], arrayId=6}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=7}
+, CustomArray{array=[71, 5, 45, 34, 2, 9, 0, 54], arrayId=8}
+, CustomArray{array=[7, 5, 45, 340, 2, 9, 0, 54, 12], arrayId=9}
+]}
+22:06:49.982 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:06:49.982 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+22:06:49.982 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:06:49.982 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:06:49.982 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:06:49.982 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:06:49.982 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:06:49.982 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+22:06:49.983 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:06:49.983 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:06:49.983 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:06:49.983 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:06:49.983 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+22:06:49.983 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:06:49.983 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+22:06:49.983 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:06:49.983 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+22:06:49.983 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+22:06:49.983 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+22:06:49.983 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:06:49.984 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+22:07:50.161 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 19.5
+22:07:50.164 [main] INFO  com.epam.Main - ArrayRepositoryImpl{customArrays=[CustomArray{array=[5, -2, 1, 16, 10, 3], arrayId=1}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=5}
+, CustomArray{array=[7, 5, 45, 34, 2, 9, 0, 54], arrayId=6}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=7}
+, CustomArray{array=[71, 5, 45, 34, 2, 9, 0, 54], arrayId=8}
+, CustomArray{array=[7, 5, 45, 340, 2, 9, 0, 54, 12], arrayId=9}
+]}
+22:07:50.166 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:07:50.166 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+22:07:50.166 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:07:50.166 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:07:50.166 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:07:50.166 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:07:50.166 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:07:50.166 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+22:07:50.167 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:07:50.167 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:07:50.167 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:07:50.167 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:07:50.167 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+22:07:50.167 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:07:50.167 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+22:07:50.167 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+22:07:50.167 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+22:07:50.167 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+22:07:50.167 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+22:07:50.167 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+22:07:50.168 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+22:07:50.168 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+22:07:50.169 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+22:07:50.169 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+22:07:50.169 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+22:08:23.882 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 19.5
+22:08:23.886 [main] INFO  com.epam.Main - ArrayRepositoryImpl{customArrays=[CustomArray{array=[5, -2, 1, 16, 10, 3], arrayId=1}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=5}
+, CustomArray{array=[7, 5, 45, 34, 2, 9, 0, 54], arrayId=6}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=7}
+, CustomArray{array=[71, 5, 45, 34, 2, 9, 0, 54], arrayId=8}
+, CustomArray{array=[7, 5, 45, 340, 2, 9, 0, 54, 12], arrayId=9}
+]}

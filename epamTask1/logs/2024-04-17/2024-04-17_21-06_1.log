@@ -1,0 +1,130 @@
+18:33:33.486 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 5, 10, 16] (sortSelection)
+18:33:33.497 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [-2, 1, 3, 5, 10, 16] (sortSelection)
+18:33:33.497 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is Optional.empty
+23:20:51.467 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is Optional.empty
+00:55:43.299 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is Optional.empty
+00:55:43.299 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+00:55:43.299 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+00:55:43.299 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 5, 10, 16] (sortSelection)
+00:55:43.299 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [-2, 1, 3, 5, 10, 16] (sortSelection)
+00:55:43.299 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is Optional.empty
+19:33:35.391 [main] ERROR epam.array.reader.impl.ArrayReaderImpl - File arrays.txt is empty or null
+12:04:19.322 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - your array from file is: + 
+
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 4
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 6
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 9
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 6
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 88
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 7
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 
+
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 7
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 5
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 45
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 34
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 2
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 9
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 0
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 54
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 
+
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 4
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 6
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 9
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 6
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 88
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 7
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 
+
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 71
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 5
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 45
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 34
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 2
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 9
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 0
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 54
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 
+
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 7
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 5
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 45
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 340
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 2
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 9
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 0
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 54
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 12
+12:04:19.332 [main] INFO  epam.array.reader.impl.ArrayReaderImpl - 
+
+18:49:28.409 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+18:49:28.409 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+18:49:28.409 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+18:49:28.409 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is Optional.empty
+18:49:28.409 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+18:50:07.649 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+18:50:07.649 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+18:50:07.649 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+18:50:07.649 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 0.0
+18:50:07.649 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+18:50:20.681 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+18:50:20.681 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+18:50:20.691 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+18:50:20.691 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 0.0
+18:50:20.691 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+18:50:53.021 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+18:50:53.021 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+18:50:53.021 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+18:50:53.021 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+18:51:24.907 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+18:51:24.917 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+18:51:24.917 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+18:51:24.917 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 0.0
+18:51:24.917 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+18:51:55.415 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+18:51:55.415 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+18:51:55.415 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+18:51:55.425 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+18:51:55.425 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+23:14:27.576 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+23:14:27.579 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+23:14:27.580 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+23:14:27.581 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+23:14:27.582 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+23:18:32.543 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+23:18:32.546 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+23:18:32.546 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+23:18:32.547 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+23:18:32.548 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+23:18:32.548 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+23:18:32.549 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+23:18:32.549 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+23:18:32.549 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+23:18:32.549 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+23:19:35.119 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+23:19:35.122 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+23:19:35.123 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+23:19:35.124 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+23:19:35.125 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+23:19:35.125 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+23:19:35.125 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+23:19:35.125 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+23:19:35.125 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+23:19:35.125 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+23:23:45.907 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+23:23:45.911 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+23:23:45.911 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+23:23:45.912 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+23:23:45.913 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+23:23:45.919 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+23:23:45.920 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+23:23:45.920 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+23:23:45.920 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+23:23:45.920 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+23:56:52.870 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+21:06:55.215 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 120
+21:06:55.219 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 4
+21:06:55.219 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+21:06:55.221 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 20.0
+21:06:55.221 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 0

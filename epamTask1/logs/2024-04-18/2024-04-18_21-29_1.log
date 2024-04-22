@@ -1,0 +1,129 @@
+22:07:46.920 [main] INFO  epam.array.observer.impl.ArrayStatisticsObserverImpl - observer was called
+11:40:04.545 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 120
+11:40:04.550 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 4
+11:40:04.551 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 20.0
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 0
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 156
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 0
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 19.5
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 0
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 120
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 4
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 20.0
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 0
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 220
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 0
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 27.5
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 0
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 474
+11:40:04.553 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 0
+11:40:04.559 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+11:40:04.559 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 52.666666666666664
+11:40:04.559 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 0
+11:40:04.559 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+11:40:04.559 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+11:40:04.559 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+11:40:04.559 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+11:40:04.559 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+11:40:04.559 [main] INFO  epam.array.observer.impl.ArrayStatisticsObserverImpl - observer was called
+11:40:30.567 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 120
+11:40:30.567 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 4
+11:40:30.567 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 20.0
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 0
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 156
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 0
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 19.5
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 0
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 120
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 4
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 20.0
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 0
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 220
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 0
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 27.5
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 0
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 474
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 0
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 52.666666666666664
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 0
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 33
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+11:40:30.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 1
+11:40:30.577 [main] INFO  epam.array.observer.impl.ArrayStatisticsObserverImpl - observer was called
+13:02:15.814 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 20.0
+13:02:25.230 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 20.0
+13:03:29.691 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 20.0
+20:32:46.164 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 20.0
+20:32:46.164 [main] INFO  com.epam.Main - ArrayRepositoryImpl{customArrays=[CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=5}
+, CustomArray{array=[7, 5, 45, 34, 2, 9, 0, 54], arrayId=6}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=7}
+, CustomArray{array=[71, 5, 45, 34, 2, 9, 0, 54], arrayId=8}
+, CustomArray{array=[7, 5, 45, 340, 2, 9, 0, 54, 12], arrayId=9}
+]}
+21:18:20.325 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 19.5
+21:18:20.325 [main] INFO  com.epam.Main - ArrayRepositoryImpl{customArrays=[CustomArray{array=[5, -2, 1, 16, 10, 3], arrayId=1}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=5}
+, CustomArray{array=[7, 5, 45, 34, 2, 9, 0, 54], arrayId=6}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=7}
+, CustomArray{array=[71, 5, 45, 34, 2, 9, 0, 54], arrayId=8}
+, CustomArray{array=[7, 5, 45, 340, 2, 9, 0, 54, 12], arrayId=9}
+]}
+21:24:40.175 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 19.5
+21:24:40.178 [main] INFO  com.epam.Main - ArrayRepositoryImpl{customArrays=[CustomArray{array=[5, -2, 1, 16, 10, 3], arrayId=1}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=5}
+, CustomArray{array=[7, 5, 45, 34, 2, 9, 0, 54], arrayId=6}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=7}
+, CustomArray{array=[71, 5, 45, 34, 2, 9, 0, 54], arrayId=8}
+, CustomArray{array=[7, 5, 45, 340, 2, 9, 0, 54, 12], arrayId=9}
+]}
+21:28:01.672 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 19.5
+21:28:01.676 [main] INFO  com.epam.Main - ArrayRepositoryImpl{customArrays=[CustomArray{array=[5, -2, 1, 16, 10, 3], arrayId=1}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=5}
+, CustomArray{array=[7, 5, 45, 34, 2, 9, 0, 54], arrayId=6}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=7}
+, CustomArray{array=[71, 5, 45, 34, 2, 9, 0, 54], arrayId=8}
+, CustomArray{array=[7, 5, 45, 340, 2, 9, 0, 54, 12], arrayId=9}
+]}
+21:28:01.684 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+21:28:01.684 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is -2
+21:28:01.684 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+21:28:01.685 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 4
+21:28:01.685 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+21:28:01.685 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 0
+21:28:01.685 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+21:28:01.685 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 4
+21:28:01.685 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 340
+21:28:01.685 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 0
+21:29:27.295 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 19.5
+21:29:27.298 [main] INFO  com.epam.Main - ArrayRepositoryImpl{customArrays=[CustomArray{array=[5, -2, 1, 16, 10, 3], arrayId=1}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=5}
+, CustomArray{array=[7, 5, 45, 34, 2, 9, 0, 54], arrayId=6}
+, CustomArray{array=[4, 6, 9, 6, 88, 7], arrayId=7}
+, CustomArray{array=[71, 5, 45, 34, 2, 9, 0, 54], arrayId=8}
+, CustomArray{array=[7, 5, 45, 340, 2, 9, 0, 54, 12], arrayId=9}
+]}
+21:29:27.305 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+21:29:27.305 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+21:29:27.306 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+21:29:27.306 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+21:29:27.306 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+21:29:27.306 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+21:29:27.306 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+21:29:27.306 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+21:29:27.306 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+21:29:27.306 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 54
+21:29:27.306 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+21:29:27.306 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88
+21:29:27.306 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 71
+21:29:27.306 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 88

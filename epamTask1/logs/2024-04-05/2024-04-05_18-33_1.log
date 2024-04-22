@@ -1,0 +1,106 @@
+19:24:08.567 [main] ERROR Main - first error
+19:24:08.572 [main] INFO  Main - old style
+19:24:08.572 [main] WARN  Main - old style
+19:24:18.199 [main] INFO  Main - First log
+19:24:18.203 [main] ERROR Main - first error
+19:24:18.203 [main] INFO  Main - old style
+19:24:18.203 [main] WARN  Main - old style
+19:25:27.403 [main] INFO  Main - First log
+19:25:27.406 [main] ERROR Main - first error
+19:25:27.406 [main] INFO  Main - old style
+19:25:27.406 [main] WARN  Main - old style
+19:19:31.325 [main] ERROR epam.array.service.impl.ArraySortServiceImpl - The array is empty
+19:59:54.068 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 2
+19:59:54.088 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+19:59:54.088 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 5
+19:59:54.098 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 10
+19:59:54.098 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 2
+19:59:54.098 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 3.3333333333333335
+20:00:10.359 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+20:00:10.359 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+20:00:10.359 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+20:00:10.359 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [5, 2, 1, 16, 10, 3] (sortInsertion)
+20:00:10.359 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [5, -2, 1, 16, 10, 3] (sortSelection)
+20:00:10.359 [main] ERROR epam.array.service.impl.ArraySortServiceImpl - The array is empty
+20:44:02.691 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+20:44:02.691 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+20:44:02.691 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+20:44:02.691 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [5, 2, 1, 16, 10, 3] (sortInsertion)
+20:44:02.691 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [5, -2, 1, 16, 10, 3] (sortSelection)
+20:44:02.691 [main] ERROR epam.array.service.impl.ArraySortServiceImpl - The array is empty
+20:57:43.619 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [3, 7, 2, 1, 8] (sortInsertion)
+20:57:43.625 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 7, 8] (sortSelection)
+21:03:59.188 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 3.3333333333333335
+21:03:59.193 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 5
+21:03:59.195 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 2
+21:03:59.197 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 2
+21:03:59.198 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 10
+21:03:59.199 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+21:04:06.696 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [3, 7, 2, 1, 8] (sortInsertion)
+21:04:06.702 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 7, 8] (sortSelection)
+21:04:12.890 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 3.3333333333333335
+21:04:12.898 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 5
+21:04:12.901 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 2
+21:04:12.903 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 2
+21:04:12.904 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 10
+21:04:12.905 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+21:05:04.748 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 3.3333333333333335
+21:05:04.754 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 5
+21:05:04.756 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 2
+21:05:04.757 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 2
+21:05:04.759 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 10
+21:05:04.760 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+21:06:23.061 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 3.3333333333333335
+21:06:23.067 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 5
+21:06:23.069 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The min is 2
+21:06:23.070 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The minusNum is 2
+21:06:23.072 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The sum is 10
+21:06:23.074 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+21:06:28.955 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [3, 7, 2, 1, 8] (sortSelection)
+21:06:42.573 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [3, 7, 2, 1, 8] (sortInsertion)
+21:06:42.579 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 7, 8] (sortSelection)
+21:09:13.614 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [3, 7, 2, 1, 8] (sortInsertion)
+21:09:13.620 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 7, 8] (sortSelection)
+21:09:56.377 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [3, 7, 2, 1, 8] (sortInsertion)
+21:09:56.384 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 7, 8] (sortSelection)
+21:11:21.681 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [3, 7, 2, 1, 8] (sortInsertion)
+21:11:21.687 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [3, 7, 2, 1, 8] (sortSelection)
+21:12:10.625 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 7, 8] (sortSelection)
+21:12:10.632 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 7, 8] (sortSelection)
+21:12:35.089 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 7, 8] (sortSelection)
+21:12:35.094 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 7, 8] (sortSelection)
+16:11:26.329 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 7, 8] (sortSelection)
+16:11:26.336 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 7, 8] (sortSelection)
+16:11:32.611 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+16:11:32.615 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+16:11:32.615 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+16:11:32.616 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 5, 10, 16] (sortSelection)
+16:11:32.616 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [-2, 1, 3, 5, 10, 16] (sortSelection)
+16:24:46.577 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+16:24:46.580 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+16:24:46.581 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+16:24:46.581 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 5, 10, 16] (sortSelection)
+16:24:46.581 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [-2, 1, 3, 5, 10, 16] (sortSelection)
+16:25:09.849 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+16:25:09.853 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+16:25:09.853 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+16:25:09.853 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 5, 10, 16] (sortSelection)
+16:25:09.854 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [-2, 1, 3, 5, 10, 16] (sortSelection)
+16:33:38.252 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+16:33:38.257 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+16:33:38.257 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+16:33:38.258 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 5, 10, 16] (sortSelection)
+16:33:38.258 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [-2, 1, 3, 5, 10, 16] (sortSelection)
+16:33:50.069 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+16:33:50.073 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+16:33:50.073 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+16:33:50.074 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 5, 10, 16] (sortSelection)
+16:33:50.074 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [-2, 1, 3, 5, 10, 16] (sortSelection)
+16:34:09.260 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is 5.5
+16:34:09.265 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+16:34:09.265 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
+16:34:09.266 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [1, 2, 3, 5, 10, 16] (sortSelection)
+16:34:09.266 [main] INFO  epam.array.service.impl.ArraySortServiceImpl - The sorted array: [-2, 1, 3, 5, 10, 16] (sortSelection)
+18:33:33.475 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The average is Optional.empty
+18:33:33.485 [main] INFO  epam.array.service.impl.ArrayServiceImpl - The max is 16
+18:33:33.486 [main] INFO  epam.array.service.impl.ArrayServiceImpl - element was replaced
